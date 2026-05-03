@@ -1,6 +1,6 @@
 # 🚨 Neo6mgpsMyevacuate – AI-Powered Emergency Evacuation Assistant
 
-MyEvacuate is a smart, AI-driven platform designed to guide individuals to safety during natural disasters and crisis situations. Whether it's a fire, flood, or earthquake, **Neo6mgpsMyEvacuate empowers users with real-time intelligence, optimized evacuation routes, and personalized alerts** to escape danger zones quickly and safely.
+Neo6mgpsMyEvacuate is a smart, AI-driven platform designed to guide individuals to safety during natural disasters and crisis situations. Whether it's a fire, flood, or earthquake, **Neo6mgpsMyEvacuate empowers users with real-time intelligence, optimized evacuation routes, and personalized alerts** to escape danger zones quickly and safely.
 
 ![MyEvacuate Banner](wildfire/assets/banner.jpg)
 
