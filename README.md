@@ -1,6 +1,6 @@
-# 🚨 MyEvacuate – AI-Powered Emergency Evacuation Assistant
+# 🚨 Neo6mgpsMyevacuate – AI-Powered Emergency Evacuation Assistant
 
-MyEvacuate is a smart, AI-driven platform designed to guide individuals to safety during natural disasters and crisis situations. Whether it's a fire, flood, or earthquake, **MyEvacuate empowers users with real-time intelligence, optimized evacuation routes, and personalized alerts** to escape danger zones quickly and safely.
+MyEvacuate is a smart, AI-driven platform designed to guide individuals to safety during natural disasters and crisis situations. Whether it's a fire, flood, or earthquake, **Neo6mgpsMyEvacuate empowers users with real-time intelligence, optimized evacuation routes, and personalized alerts** to escape danger zones quickly and safely.
 
 ![MyEvacuate Banner](wildfire/assets/banner.jpg)
 
@@ -100,7 +100,7 @@ The result: **Smart, relevant, and urgent warnings** tailored for each user.
 ## 🧪 How to Run Locally
 
 ```bash
-git clone https://github.com/hirah-ma/MyEvacuate
+git clone https://github.com/ssoumya9347/Neo6mgpsMyevacuate.git
 cd myevacuate
 pip install -r requirements.txt
 uvicorn app:main --reload
